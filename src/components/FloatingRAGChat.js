@@ -78,16 +78,13 @@ const FloatingRAGChat = () => {
             </button>
           </div>
 
-          {/* Embedded Streamlit Chatbot */}
-          {/* Embedded Docusaurus Book (Vercel Preview) in Streamlit */}
+          {/* Embedded Chatbot */}
           <iframe
-            src={`${CHATBOT_URL}?x-vercel-protection-bypass=${process.env.VERCEL_BYPASS_SECRET}`}
+            src={CHATBOT_URL}
             width="100%"
             height="600px"
             style={{ border: 'none' }}
-            title="Physical AI Book Preview"
-            allow="fullscreen"
-            sandbox="allow-scripts allow-same-origin allow-popups allow-forms allow-modals"
+            title="Physical AI Book RAG Chatbot"
           />
         </div>
       )}
