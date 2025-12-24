@@ -1,0 +1,23 @@
+{
+  "id": "module-6-applications-ethics/real-deployments",
+  "title": "Real Deployments: Humanoid Robots in Action",
+  "description": "This document details real-world deployment scenarios for humanoid robots in 2025, covering home, factory, healthcare, and space sectors. It draws upon information from the spec.md and data-model.md.",
+  "source": "@site/docs/module-6-applications-ethics/real-deployments.md",
+  "sourceDirName": "module-6-applications-ethics",
+  "slug": "/module-6-applications-ethics/real-deployments",
+  "permalink": "/docs/module-6-applications-ethics/real-deployments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Humanoid Robots Comparison Table (2025)",
+    "permalink": "/docs/module-6-applications-ethics/humanoid-robots-comparison"
+  },
+  "next": {
+    "title": "Economic Impact Analysis: Humanoid Robots",
+    "permalink": "/docs/module-6-applications-ethics/economic-impact"
+  }
+}

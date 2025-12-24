@@ -1,0 +1,23 @@
+{
+  "id": "module-5-control-navigation/module-5-control-navigation",
+  "title": "Module 5: Control, Navigation & Manipulation",
+  "description": "Introduction",
+  "source": "@site/docs/module-5-control-navigation/module-5-control-navigation.md",
+  "sourceDirName": "module-5-control-navigation",
+  "slug": "/module-5-control-navigation/",
+  "permalink": "/docs/module-5-control-navigation/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 4: Materials, Actuators, and Power Systems",
+    "permalink": "/docs/module-4-humanoid-design/chapter-4"
+  },
+  "next": {
+    "title": "Chapter 1: PID, LQR, and Modern Control Theory",
+    "permalink": "/docs/module-5-control-navigation/chapter-1"
+  }
+}

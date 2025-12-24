@@ -1,0 +1,55 @@
+{
+  "id": "module-2-robotics-basics/chapter-1-dof-joint-types",
+  "title": "Degrees of Freedom and Joint Types",
+  "description": "Introduction",
+  "source": "@site/docs/module-2-robotics-basics/chapter-1.md",
+  "sourceDirName": "module-2-robotics-basics",
+  "slug": "/module-2-robotics-basics/chapter-1-dof-joint-types",
+  "permalink": "/docs/module-2-robotics-basics/chapter-1-dof-joint-types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "kinematics",
+      "permalink": "/docs/tags/kinematics"
+    },
+    {
+      "inline": true,
+      "label": "DOF",
+      "permalink": "/docs/tags/dof"
+    },
+    {
+      "inline": true,
+      "label": "joints",
+      "permalink": "/docs/tags/joints"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-1-dof-joint-types",
+    "title": "Degrees of Freedom and Joint Types",
+    "sidebar_label": "Chapter 1: DOF & Joints",
+    "week": "Weeks 3–5",
+    "tags": [
+      "robotics",
+      "kinematics",
+      "DOF",
+      "joints"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 5: Humanoid Design",
+    "permalink": "/docs/module-1-foundations/chapter-5"
+  },
+  "next": {
+    "title": "Chapter 2: Kinematics",
+    "permalink": "/docs/module-2-robotics-basics/chapter-2-kinematics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "module-4-humanoid-design/chapter-3",
+  "title": "Chapter 3: Arm, Hand, and Dexterous Manipulation Design",
+  "description": "Introduction",
+  "source": "@site/docs/module-4-humanoid-design/chapter-3.md",
+  "sourceDirName": "module-4-humanoid-design",
+  "slug": "/module-4-humanoid-design/chapter-3",
+  "permalink": "/docs/module-4-humanoid-design/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 2: Legged Locomotion and Bipedal Balance",
+    "permalink": "/docs/module-4-humanoid-design/chapter-2"
+  },
+  "next": {
+    "title": "Chapter 4: Materials, Actuators, and Power Systems",
+    "permalink": "/docs/module-4-humanoid-design/chapter-4"
+  }
+}

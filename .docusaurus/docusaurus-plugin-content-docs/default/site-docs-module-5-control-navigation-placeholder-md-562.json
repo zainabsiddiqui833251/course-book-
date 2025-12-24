@@ -1,0 +1,27 @@
+{
+  "id": "module-5-control-navigation/placeholder",
+  "title": "Placeholder Module Content",
+  "description": "This is a placeholder page for Module 5: Control & Navigation. Actual content will be added later.",
+  "source": "@site/docs/module-5-control-navigation/placeholder.md",
+  "sourceDirName": "module-5-control-navigation",
+  "slug": "/module-5-control-navigation/placeholder",
+  "permalink": "/docs/module-5-control-navigation/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "placeholder",
+    "title": "Placeholder Module Content",
+    "sidebar_label": "Placeholder"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Placeholder",
+    "permalink": "/docs/module-4-humanoid-design/placeholder"
+  },
+  "next": {
+    "title": "Placeholder",
+    "permalink": "/docs/module-6-applications-ethics/placeholder"
+  }
+}

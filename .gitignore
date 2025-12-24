@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+*.log
+.env*
+# OS generated files
+.DS_Store
+Thumbs.db
+.gemini/settings.json

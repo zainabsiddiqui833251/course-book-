@@ -1,0 +1,6 @@
+# Ignore ESLint cache files and generated output
+.eslintcache
+dist/
+build/
+coverage/
+*.log

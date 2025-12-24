@@ -1,0 +1,23 @@
+{
+  "id": "module-6-applications-ethics/humanoid-robots-comparison",
+  "title": "Humanoid Robots Comparison Table (2025)",
+  "description": "This table provides a comparison of prominent commercial humanoid robots available or significantly updated in 2025, focusing on their capabilities, deployment contexts, and key characteristics.",
+  "source": "@site/docs/module-6-applications-ethics/humanoid-robots-comparison.md",
+  "sourceDirName": "module-6-applications-ethics",
+  "slug": "/module-6-applications-ethics/humanoid-robots-comparison",
+  "permalink": "/docs/module-6-applications-ethics/humanoid-robots-comparison",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 5: Grasp Planning and In-Hand Manipulation",
+    "permalink": "/docs/module-5-control-navigation/chapter-5"
+  },
+  "next": {
+    "title": "Real Deployments: Humanoid Robots in Action",
+    "permalink": "/docs/module-6-applications-ethics/real-deployments"
+  }
+}

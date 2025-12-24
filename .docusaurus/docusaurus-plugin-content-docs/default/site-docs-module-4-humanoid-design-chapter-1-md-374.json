@@ -1,0 +1,23 @@
+{
+  "id": "module-4-humanoid-design/chapter-1",
+  "title": "Chapter 1: Human Biomechanics and Anthropometric Data",
+  "description": "Introduction",
+  "source": "@site/docs/module-4-humanoid-design/chapter-1.md",
+  "sourceDirName": "module-4-humanoid-design",
+  "slug": "/module-4-humanoid-design/chapter-1",
+  "permalink": "/docs/module-4-humanoid-design/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 5: Training Environments",
+    "permalink": "/docs/module-3-ai-integration/chapter-5-training-envs"
+  },
+  "next": {
+    "title": "Chapter 2: Legged Locomotion and Bipedal Balance",
+    "permalink": "/docs/module-4-humanoid-design/chapter-2"
+  }
+}

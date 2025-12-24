@@ -1,0 +1,23 @@
+{
+  "id": "module-4-humanoid-design/chapter-4",
+  "title": "Chapter 4: Materials, Actuators, and Power Systems",
+  "description": "Introduction",
+  "source": "@site/docs/module-4-humanoid-design/chapter-4.md",
+  "sourceDirName": "module-4-humanoid-design",
+  "slug": "/module-4-humanoid-design/chapter-4",
+  "permalink": "/docs/module-4-humanoid-design/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 3: Arm, Hand, and Dexterous Manipulation Design",
+    "permalink": "/docs/module-4-humanoid-design/chapter-3"
+  },
+  "next": {
+    "title": "Module 5: Control, Navigation & Manipulation",
+    "permalink": "/docs/module-5-control-navigation/"
+  }
+}

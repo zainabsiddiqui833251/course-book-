@@ -1,0 +1,25 @@
+{
+  "id": "assessments",
+  "title": "Assessments & Exams",
+  "description": "This document outlines the assessments for the course, including their details, instructions, and grading rubrics.",
+  "source": "@site/docs/assessments.md",
+  "sourceDirName": ".",
+  "slug": "/assessments",
+  "permalink": "/docs/assessments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Assessments & Exams"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Hardware & Software Requirements",
+    "permalink": "/docs/hardware-requirements"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/glossary"
+  }
+}

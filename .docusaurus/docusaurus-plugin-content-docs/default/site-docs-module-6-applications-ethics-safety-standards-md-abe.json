@@ -1,0 +1,19 @@
+{
+  "id": "module-6-applications-ethics/safety-standards",
+  "title": "Safety Standards for Humanoid Robots",
+  "description": "This document details the safety standards and considerations pertinent to humanoid robots, drawing from established ethical frameworks, simulated research findings, and the data-model.md to ensure responsible development and deployment.",
+  "source": "@site/docs/module-6-applications-ethics/safety-standards.md",
+  "sourceDirName": "module-6-applications-ethics",
+  "slug": "/module-6-applications-ethics/safety-standards",
+  "permalink": "/docs/module-6-applications-ethics/safety-standards",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Ethical Frameworks for Humanoid Robots",
+    "permalink": "/docs/module-6-applications-ethics/ethical-frameworks"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-a54": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-ef7": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/actuators-2f9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-actuators-890-a9c"
+  },
+  "/docs/tags/ai-bd3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-ai-8-be-858"
+  },
+  "/docs/tags/behavioral-cloning-888": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-behavioral-cloningf-1-e-3cb"
+  },
+  "/docs/tags/demonstrations-7d8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-demonstrationsffc-813"
+  },
+  "/docs/tags/dh-parameters-dd6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-dh-parameters-433-2df"
+  },
+  "/docs/tags/dof-15d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-dof-5-d-1-621"
+  },
+  "/docs/tags/dynamics-393": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-dynamics-4-e-0-eea"
+  },
+  "/docs/tags/embodied-ai-b98": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-embodied-ai-9-f-7-7d0"
+  },
+  "/docs/tags/forward-kinematics-aa4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-forward-kinematics-484-f91"
+  },
+  "/docs/tags/frames-17b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-frames-35-b-525"
+  },
+  "/docs/tags/imitation-learning-da3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-imitation-learning-799-812"
+  },
+  "/docs/tags/inverse-kinematics-050": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-inverse-kinematicsc-54-ed5"
+  },
+  "/docs/tags/isaac-gym-4b7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-isaac-gymaf-0-565"
+  },
+  "/docs/tags/joints-2e6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-joints-701-950"
+  },
+  "/docs/tags/kinematics-3dd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-kinematicsef-1-e74"
+  },
+  "/docs/tags/llm-cef": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-llmadb-5b4"
+  },
+  "/docs/tags/motors-023": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-motors-011-7c4"
+  },
+  "/docs/tags/mu-jo-co-52a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-mu-jo-cofb-6-ceb"
+  },
+  "/docs/tags/physical-systems-515": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-physical-systems-35-e-d95"
+  },
+  "/docs/tags/planning-904": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-planningde-2-93d"
+  },
+  "/docs/tags/rl-0af": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-rleba-326"
+  },
+  "/docs/tags/robotics-40e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-robotics-14-d-895"
+  },
+  "/docs/tags/simulation-7b7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-simulationf-9-f-70d"
+  },
+  "/docs/tags/torque-3d4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-torque-842-571"
+  },
+  "/docs/tags/training-98c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-trainingd-29-d80"
+  },
+  "/docs-32e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/assessments-8b0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-assessmentsd-16-f3a"
+  },
+  "/docs/glossary-c43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-glossarye-74-cec"
+  },
+  "/docs/hardware-requirements-6c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-hardware-requirements-122-a39"
+  },
+  "/docs/intro-f7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/module-1-foundations/chapter-1-dd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1003-e72"
+  },
+  "/docs/module-1-foundations/chapter-2-46c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-2-c-2-d-d1f"
+  },
+  "/docs/module-1-foundations/chapter-3-aa7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-3-d-59-1fe"
+  },
+  "/docs/module-1-foundations/chapter-4-8ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-4-cbc-3bc"
+  },
+  "/docs/module-1-foundations/chapter-5-1fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-5392-43e"
+  },
+  "/docs/module-2-robotics-basics/chapter-1-dof-joint-types-f86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-robotics-basics-chapter-1-dof-joint-types-165-c40"
+  },
+  "/docs/module-2-robotics-basics/chapter-2-kinematics-a8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-robotics-basics-chapter-2-kinematics-9-ea-72d"
+  },
+  "/docs/module-2-robotics-basics/chapter-3-dynamics-torque-964": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-robotics-basics-chapter-3-dynamics-torquee-05-4e7"
+  },
+  "/docs/module-2-robotics-basics/chapter-4-e34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-robotics-basics-chapter-4188-9d3"
+  },
+  "/docs/module-3-ai-integration/chapter-1-rl-physical-worlds-999": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-integration-chapter-1-rl-physical-worlds-19-a-8d9"
+  },
+  "/docs/module-3-ai-integration/chapter-2-kinematics-963": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-integration-chapter-2-kinematics-14-f-8b8"
+  },
+  "/docs/module-3-ai-integration/chapter-3-imitation-learning-009": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-integration-chapter-3-imitation-learning-8-ac-094"
+  },
+  "/docs/module-3-ai-integration/chapter-4-llm-robot-brains-532": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-integration-chapter-4-llm-robot-brains-6-dc-50f"
+  },
+  "/docs/module-3-ai-integration/chapter-5-training-envs-1cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-ai-integration-chapter-5-training-envs-73-c-9bb"
+  },
+  "/docs/module-4-humanoid-design/chapter-1-3d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-humanoid-design-chapter-1374-1bb"
+  },
+  "/docs/module-4-humanoid-design/chapter-2-fef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-humanoid-design-chapter-2223-2fa"
+  },
+  "/docs/module-4-humanoid-design/chapter-3-f8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-humanoid-design-chapter-3-c-8-d-d1b"
+  },
+  "/docs/module-4-humanoid-design/chapter-4-713": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-humanoid-design-chapter-48-d-8-0e9"
+  },
+  "/docs/module-5-control-navigation/-d84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-843-ed5"
+  },
+  "/docs/module-5-control-navigation/chapter-1-ad9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-chapter-1-fc-6-40b"
+  },
+  "/docs/module-5-control-navigation/chapter-2-f2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-chapter-29-cc-0f1"
+  },
+  "/docs/module-5-control-navigation/chapter-3-187": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-chapter-3840-f86"
+  },
+  "/docs/module-5-control-navigation/chapter-4-6aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-chapter-42-aa-58f"
+  },
+  "/docs/module-5-control-navigation/chapter-5-80f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-5-control-navigation-chapter-56-d-0-f31"
+  },
+  "/docs/module-6-applications-ethics/economic-impact-937": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-applications-ethics-economic-impact-8-d-8-9b3"
+  },
+  "/docs/module-6-applications-ethics/ethical-frameworks-915": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-applications-ethics-ethical-frameworksa-7-c-a4f"
+  },
+  "/docs/module-6-applications-ethics/humanoid-robots-comparison-808": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-applications-ethics-humanoid-robots-comparison-6-e-0-c6b"
+  },
+  "/docs/module-6-applications-ethics/real-deployments-418": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-applications-ethics-real-deployments-16-c-7de"
+  },
+  "/docs/module-6-applications-ethics/safety-standards-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-6-applications-ethics-safety-standardsabe-178"
+  },
+  "/docs/topic-overview-20f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-topic-overview-8-d-5-6a2"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

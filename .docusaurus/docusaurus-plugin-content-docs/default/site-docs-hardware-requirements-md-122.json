@@ -1,0 +1,25 @@
+{
+  "id": "hardware-requirements",
+  "title": "Hardware & Software Requirements",
+  "description": "This document outlines the necessary hardware and software for each course tier. Requirements are presented in three tiers: Simulation, Small Robot, and Full Build, to accommodate different learning levels and project scopes.",
+  "source": "@site/docs/hardware-requirements.md",
+  "sourceDirName": ".",
+  "slug": "/hardware-requirements",
+  "permalink": "/docs/hardware-requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hardware & Software Requirements"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Topic Overview",
+    "permalink": "/docs/topic-overview"
+  },
+  "next": {
+    "title": "Assessments & Exams",
+    "permalink": "/docs/assessments"
+  }
+}

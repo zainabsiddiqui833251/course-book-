@@ -1,0 +1,54 @@
+.heroBanner {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;     /* Perfect vertical center */
+  justify-content: center; /* Perfect horizontal center */
+  text-align: center;
+  background: url('https://thumbs.dreamstime.com/b/ai-generated-dramatic-full-body-image-sophisticated-humanoid-robot-android-robot-stands-alone-centered-against-415918385.jpg') center/cover no-repeat fixed;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8), rgba(0,0,0,0.6));
+  z-index: 1;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  max-width: 1000px;
+  width: 90%;
+  padding: 2rem;
+  animation: fadeIn 2s ease-out;
+}
+
+/* Rest remains same */
+.heroTitle {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 5.5rem;
+  font-weight: 900;
+  margin-bottom: 1rem;
+  background: linear-gradient(90deg, #00ffff, #ff00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heroTagline, .heroQuote, .buttons {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Responsive */
+@media (max-width: 996px) {
+  .heroBanner { min-height: 80vh; }
+  .heroTitle { font-size: 3.8rem; }
+}
+
+@media (max-width: 600px) {
+  .heroBanner { min-height: 70vh; }
+  .heroTitle { font-size: 3rem; }
+}

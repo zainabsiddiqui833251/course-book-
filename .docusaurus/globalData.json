@@ -1,0 +1,198 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "assessments",
+              "path": "/docs/assessments",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "glossary",
+              "path": "/docs/glossary",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "hardware-requirements",
+              "path": "/docs/hardware-requirements",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1",
+              "path": "/docs/module-1-foundations/chapter-1",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-2",
+              "path": "/docs/module-1-foundations/chapter-2",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-3",
+              "path": "/docs/module-1-foundations/chapter-3",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-4",
+              "path": "/docs/module-1-foundations/chapter-4",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-5",
+              "path": "/docs/module-1-foundations/chapter-5",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-2-robotics-basics/chapter-1-dof-joint-types",
+              "path": "/docs/module-2-robotics-basics/chapter-1-dof-joint-types",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-2-robotics-basics/chapter-2-kinematics",
+              "path": "/docs/module-2-robotics-basics/chapter-2-kinematics",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-2-robotics-basics/chapter-3-dynamics-torque",
+              "path": "/docs/module-2-robotics-basics/chapter-3-dynamics-torque",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-2-robotics-basics/chapter-4",
+              "path": "/docs/module-2-robotics-basics/chapter-4",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-3-ai-integration/chapter-1-rl-physical-worlds",
+              "path": "/docs/module-3-ai-integration/chapter-1-rl-physical-worlds",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-3-ai-integration/chapter-2-kinematics",
+              "path": "/docs/module-3-ai-integration/chapter-2-kinematics",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-3-ai-integration/chapter-3-imitation-learning",
+              "path": "/docs/module-3-ai-integration/chapter-3-imitation-learning",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-3-ai-integration/chapter-4-llm-robot-brains",
+              "path": "/docs/module-3-ai-integration/chapter-4-llm-robot-brains",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-3-ai-integration/chapter-5-training-envs",
+              "path": "/docs/module-3-ai-integration/chapter-5-training-envs",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-4-humanoid-design/chapter-1",
+              "path": "/docs/module-4-humanoid-design/chapter-1",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-4-humanoid-design/chapter-2",
+              "path": "/docs/module-4-humanoid-design/chapter-2",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-4-humanoid-design/chapter-3",
+              "path": "/docs/module-4-humanoid-design/chapter-3",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-4-humanoid-design/chapter-4",
+              "path": "/docs/module-4-humanoid-design/chapter-4",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/chapter-1",
+              "path": "/docs/module-5-control-navigation/chapter-1",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/chapter-2",
+              "path": "/docs/module-5-control-navigation/chapter-2",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/chapter-3",
+              "path": "/docs/module-5-control-navigation/chapter-3",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/chapter-4",
+              "path": "/docs/module-5-control-navigation/chapter-4",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/chapter-5",
+              "path": "/docs/module-5-control-navigation/chapter-5",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-5-control-navigation/module-5-control-navigation",
+              "path": "/docs/module-5-control-navigation/",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-6-applications-ethics/economic-impact",
+              "path": "/docs/module-6-applications-ethics/economic-impact",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-6-applications-ethics/ethical-frameworks",
+              "path": "/docs/module-6-applications-ethics/ethical-frameworks",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-6-applications-ethics/humanoid-robots-comparison",
+              "path": "/docs/module-6-applications-ethics/humanoid-robots-comparison",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-6-applications-ethics/real-deployments",
+              "path": "/docs/module-6-applications-ethics/real-deployments",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "module-6-applications-ethics/safety-standards",
+              "path": "/docs/module-6-applications-ethics/safety-standards",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "topic-overview",
+              "path": "/docs/topic-overview",
+              "sidebar": "courseSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "courseSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

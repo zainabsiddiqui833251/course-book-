@@ -1,0 +1,17 @@
+# Ignore Node.js modules and lock files
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore build and distribution output
+dist/
+build/
+out/
+
+# Ignore log files
+*.log
+
+# Ignore environment files (unless specifically needed for config)
+.env*
+!.env.example

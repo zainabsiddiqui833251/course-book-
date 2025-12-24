@@ -1,0 +1,27 @@
+{
+  "id": "topic-overview",
+  "title": "What is Physical AI and Why Humanoid Robots Matter?",
+  "description": "This document provides a foundational overview of Physical AI and humanoid robots, exploring their unique characteristics, historical trajectory, burgeoning applications, and future potential. We aim to demystify this exciting field for both students and engineers, offering insights into the core concepts, key players, and the transformative impact these technologies are poised to have.",
+  "source": "@site/docs/topic-overview.md",
+  "sourceDirName": ".",
+  "slug": "/topic-overview",
+  "permalink": "/docs/topic-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "topic-overview",
+    "title": "What is Physical AI and Why Humanoid Robots Matter?",
+    "sidebar_label": "Topic Overview"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Hardware & Software Requirements",
+    "permalink": "/docs/hardware-requirements"
+  }
+}

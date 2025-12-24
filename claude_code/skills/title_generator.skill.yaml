@@ -1,0 +1,8 @@
+name: title_generator
+description: Generates a book title from a topic
+input_schema:
+  topic: string
+run:
+  engine: LLM
+  prompt: |
+    You are an expert book writer. Suggest a creative and catchy book title for the topic: "{{topic}}"

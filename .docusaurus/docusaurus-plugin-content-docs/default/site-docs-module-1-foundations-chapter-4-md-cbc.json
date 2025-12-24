@@ -1,0 +1,27 @@
+{
+  "id": "module-1-foundations/chapter-4",
+  "title": "Sensors, Actuators and the Perception-Action Loop",
+  "description": "Introduction to Hardware Components in Physical AI",
+  "source": "@site/docs/module-1-foundations/chapter-4.md",
+  "sourceDirName": "module-1-foundations",
+  "slug": "/module-1-foundations/chapter-4",
+  "permalink": "/docs/module-1-foundations/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sensors, Actuators and the Perception-Action Loop",
+    "sidebar_label": "Chapter 4: Hardware Basics",
+    "badge": "Week 1–3"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 3: Theory",
+    "permalink": "/docs/module-1-foundations/chapter-3"
+  },
+  "next": {
+    "title": "Chapter 5: Humanoid Design",
+    "permalink": "/docs/module-1-foundations/chapter-5"
+  }
+}

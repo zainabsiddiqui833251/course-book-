@@ -1,0 +1,10 @@
+name: chapter_writer
+description: Writes the full content of a chapter in Markdown
+input_schema:
+  chapter_title: string
+  outline: object
+run:
+  engine: LLM
+  prompt: |
+    Write a full chapter for the book based on the chapter title: "{{chapter_title}}".
+    Include subtopics, examples, and summary. Format in Markdown for Docusaurus.

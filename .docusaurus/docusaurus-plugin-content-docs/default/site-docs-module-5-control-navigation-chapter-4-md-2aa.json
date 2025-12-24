@@ -1,0 +1,23 @@
+{
+  "id": "module-5-control-navigation/chapter-4",
+  "title": "Chapter 4: Whole-Body Control and Operational Space Control",
+  "description": "Introduction",
+  "source": "@site/docs/module-5-control-navigation/chapter-4.md",
+  "sourceDirName": "module-5-control-navigation",
+  "slug": "/module-5-control-navigation/chapter-4",
+  "permalink": "/docs/module-5-control-navigation/chapter-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 3: SLAM and Navigation in Unknown Environments",
+    "permalink": "/docs/module-5-control-navigation/chapter-3"
+  },
+  "next": {
+    "title": "Chapter 5: Grasp Planning and In-Hand Manipulation",
+    "permalink": "/docs/module-5-control-navigation/chapter-5"
+  }
+}

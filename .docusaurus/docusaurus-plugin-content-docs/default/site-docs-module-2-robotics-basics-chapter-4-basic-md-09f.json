@@ -1,0 +1,46 @@
+{
+  "id": "module-2-robotics-basics/chapter-4-basic",
+  "title": "Basic Concepts of Frames and Denavit-Hartenberg (DH) Parameters",
+  "description": "Introduction",
+  "source": "@site/docs/module-2-robotics-basics/chapter-4-basic.md",
+  "sourceDirName": "module-2-robotics-basics",
+  "slug": "/module-2-robotics-basics/chapter-4-basic",
+  "permalink": "/docs/module-2-robotics-basics/chapter-4-basic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "kinematics",
+      "permalink": "/docs/tags/kinematics"
+    },
+    {
+      "inline": true,
+      "label": "frames",
+      "permalink": "/docs/tags/frames"
+    },
+    {
+      "inline": true,
+      "label": "DH parameters",
+      "permalink": "/docs/tags/dh-parameters"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-4-basic",
+    "title": "Basic Concepts of Frames and Denavit-Hartenberg (DH) Parameters",
+    "sidebar_label": "Chapter 4: Basic Frames",
+    "week": "Weeks 3-5",
+    "tags": [
+      "robotics",
+      "kinematics",
+      "frames",
+      "DH parameters"
+    ]
+  }
+}

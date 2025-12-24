@@ -1,0 +1,9 @@
+name: index_preparer
+description: Combines all chapters into a single text for RAG embeddings
+input_schema:
+  chapters: array
+run:
+  engine: LLM
+  prompt: |
+    Combine the following chapters into a single plain-text document for RAG embedding:
+    {{chapters}}

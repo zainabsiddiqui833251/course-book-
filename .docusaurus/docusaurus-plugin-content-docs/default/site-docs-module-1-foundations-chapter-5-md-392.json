@@ -1,0 +1,27 @@
+{
+  "id": "module-1-foundations/chapter-5",
+  "title": "Introduction to Humanoid Form Factor",
+  "description": "The Rationale Behind Humanoid Robots",
+  "source": "@site/docs/module-1-foundations/chapter-5.md",
+  "sourceDirName": "module-1-foundations",
+  "slug": "/module-1-foundations/chapter-5",
+  "permalink": "/docs/module-1-foundations/chapter-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Introduction to Humanoid Form Factor",
+    "sidebar_label": "Chapter 5: Humanoid Design",
+    "badge": "Week 1–3"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 4: Hardware Basics",
+    "permalink": "/docs/module-1-foundations/chapter-4"
+  },
+  "next": {
+    "title": "Chapter 1: DOF & Joints",
+    "permalink": "/docs/module-2-robotics-basics/chapter-1-dof-joint-types"
+  }
+}

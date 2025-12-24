@@ -1,0 +1,18 @@
+name: auto_book_pipeline
+steps:
+  - run: title_generator
+    with: { topic: "{{topic}}" }
+    save: book_title
+
+  - run: outline_generator
+    with: { book_title: "{{book_title}}" }
+    save: outline
+
+  - run: chapter_writer
+    foreach: outline.chapters
+    with: { chapter_title: "{{item.title}}", outline: "{{outline}}" }
+    collect: chapters
+
+  - run: index_preparer
+    with: { chapters: "{{chapters}}" }
+    save: book_text

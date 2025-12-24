@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction & Course Overview",
+  "description": "This course offers a comprehensive exploration into the rapidly evolving fields of Physical AI and Humanoid Robotics. We will journey from fundamental principles to cutting-edge advancements, examining how artificial intelligence is increasingly being embodied in physical systems designed to interact with and shape our world.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Introduction & Course Overview",
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "courseSidebar",
+  "next": {
+    "title": "Topic Overview",
+    "permalink": "/docs/topic-overview"
+  }
+}

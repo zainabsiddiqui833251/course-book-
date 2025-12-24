@@ -1,0 +1,23 @@
+{
+  "id": "module-6-applications-ethics/ethical-frameworks",
+  "title": "Ethical Frameworks for Humanoid Robots",
+  "description": "This document explores the ethical considerations surrounding humanoid robots, drawing from established ethical frameworks and research findings pertinent to their development and deployment in 2025 and beyond.",
+  "source": "@site/docs/module-6-applications-ethics/ethical-frameworks.md",
+  "sourceDirName": "module-6-applications-ethics",
+  "slug": "/module-6-applications-ethics/ethical-frameworks",
+  "permalink": "/docs/module-6-applications-ethics/ethical-frameworks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Economic Impact Analysis: Humanoid Robots",
+    "permalink": "/docs/module-6-applications-ethics/economic-impact"
+  },
+  "next": {
+    "title": "Safety Standards for Humanoid Robots",
+    "permalink": "/docs/module-6-applications-ethics/safety-standards"
+  }
+}

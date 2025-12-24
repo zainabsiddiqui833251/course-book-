@@ -1,0 +1,23 @@
+{
+  "id": "module-6-applications-ethics/placeholder",
+  "title": "Placeholder Module Content",
+  "description": "This is a placeholder page for Module 6: Applications & Ethics. Actual content will be added later.",
+  "source": "@site/docs/module-6-applications-ethics/placeholder.md",
+  "sourceDirName": "module-6-applications-ethics",
+  "slug": "/module-6-applications-ethics/placeholder",
+  "permalink": "/docs/module-6-applications-ethics/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "placeholder",
+    "title": "Placeholder Module Content",
+    "sidebar_label": "Placeholder"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Placeholder",
+    "permalink": "/docs/module-5-control-navigation/placeholder"
+  }
+}

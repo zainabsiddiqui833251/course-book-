@@ -1,0 +1,17 @@
+name: outline_generator
+description: Creates chapters and subtopics from a book title
+input_schema:
+  book_title: string
+run:
+  engine: LLM
+  prompt: |
+    Create a structured chapter outline for the book "{{book_title}}".
+    Return JSON:
+    {
+      "title": "{{book_title}}",
+      "chapters":[
+        {"title":"Chapter 1 Title","slug":"chapter-1"},
+        {"title":"Chapter 2 Title","slug":"chapter-2"},
+        {"title":"Chapter 3 Title","slug":"chapter-3"}
+      ]
+    }

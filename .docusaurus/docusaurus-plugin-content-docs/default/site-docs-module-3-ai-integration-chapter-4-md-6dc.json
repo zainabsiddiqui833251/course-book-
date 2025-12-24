@@ -1,0 +1,61 @@
+{
+  "id": "module-3-ai-integration/chapter-4-llm-robot-brains",
+  "title": "Large Language Models as Robot Brains (2025 Methods)",
+  "description": "Introduction",
+  "source": "@site/docs/module-3-ai-integration/chapter-4.md",
+  "sourceDirName": "module-3-ai-integration",
+  "slug": "/module-3-ai-integration/chapter-4-llm-robot-brains",
+  "permalink": "/docs/module-3-ai-integration/chapter-4-llm-robot-brains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "LLM",
+      "permalink": "/docs/tags/llm"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "embodied AI",
+      "permalink": "/docs/tags/embodied-ai"
+    },
+    {
+      "inline": true,
+      "label": "planning",
+      "permalink": "/docs/tags/planning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-4-llm-robot-brains",
+    "title": "Large Language Models as Robot Brains (2025 Methods)",
+    "sidebar_label": "Chapter 4: LLMs for Robotics",
+    "week": "Weeks 5–7",
+    "tags": [
+      "AI",
+      "LLM",
+      "robotics",
+      "embodied AI",
+      "planning"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 3: Imitation Learning",
+    "permalink": "/docs/module-3-ai-integration/chapter-3-imitation-learning"
+  },
+  "next": {
+    "title": "Chapter 5: Training Environments",
+    "permalink": "/docs/module-3-ai-integration/chapter-5-training-envs"
+  }
+}

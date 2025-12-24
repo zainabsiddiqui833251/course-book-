@@ -1,0 +1,23 @@
+{
+  "id": "module-5-control-navigation/chapter-3",
+  "title": "Chapter 3: SLAM and Navigation in Unknown Environments",
+  "description": "Introduction",
+  "source": "@site/docs/module-5-control-navigation/chapter-3.md",
+  "sourceDirName": "module-5-control-navigation",
+  "slug": "/module-5-control-navigation/chapter-3",
+  "permalink": "/docs/module-5-control-navigation/chapter-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 2: Walking Pattern Generation and ZMP Control",
+    "permalink": "/docs/module-5-control-navigation/chapter-2"
+  },
+  "next": {
+    "title": "Chapter 4: Whole-Body Control and Operational Space Control",
+    "permalink": "/docs/module-5-control-navigation/chapter-4"
+  }
+}

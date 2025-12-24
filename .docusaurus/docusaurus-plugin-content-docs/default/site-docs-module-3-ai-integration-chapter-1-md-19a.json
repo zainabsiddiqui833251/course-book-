@@ -1,0 +1,61 @@
+{
+  "id": "module-3-ai-integration/chapter-1-rl-physical-worlds",
+  "title": "Reinforcement Learning in Physical Worlds",
+  "description": "Introduction",
+  "source": "@site/docs/module-3-ai-integration/chapter-1.md",
+  "sourceDirName": "module-3-ai-integration",
+  "slug": "/module-3-ai-integration/chapter-1-rl-physical-worlds",
+  "permalink": "/docs/module-3-ai-integration/chapter-1-rl-physical-worlds",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "RL",
+      "permalink": "/docs/tags/rl"
+    },
+    {
+      "inline": true,
+      "label": "embodied AI",
+      "permalink": "/docs/tags/embodied-ai"
+    },
+    {
+      "inline": true,
+      "label": "physical systems",
+      "permalink": "/docs/tags/physical-systems"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-1-rl-physical-worlds",
+    "title": "Reinforcement Learning in Physical Worlds",
+    "sidebar_label": "Chapter 1: RL in Physical Worlds",
+    "week": "Weeks 5–7",
+    "tags": [
+      "AI",
+      "robotics",
+      "RL",
+      "embodied AI",
+      "physical systems"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 4: Frames & DH",
+    "permalink": "/docs/module-2-robotics-basics/chapter-4"
+  },
+  "next": {
+    "title": "Chapter 2: Kinematics",
+    "permalink": "/docs/module-3-ai-integration/chapter-2-kinematics"
+  }
+}

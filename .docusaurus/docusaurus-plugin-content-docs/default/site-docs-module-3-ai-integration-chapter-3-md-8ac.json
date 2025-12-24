@@ -1,0 +1,61 @@
+{
+  "id": "module-3-ai-integration/chapter-3-imitation-learning",
+  "title": "Imitation Learning and Learning from Demonstrations",
+  "description": "Introduction",
+  "source": "@site/docs/module-3-ai-integration/chapter-3.md",
+  "sourceDirName": "module-3-ai-integration",
+  "slug": "/module-3-ai-integration/chapter-3-imitation-learning",
+  "permalink": "/docs/module-3-ai-integration/chapter-3-imitation-learning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "imitation learning",
+      "permalink": "/docs/tags/imitation-learning"
+    },
+    {
+      "inline": true,
+      "label": "demonstrations",
+      "permalink": "/docs/tags/demonstrations"
+    },
+    {
+      "inline": true,
+      "label": "behavioral cloning",
+      "permalink": "/docs/tags/behavioral-cloning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-3-imitation-learning",
+    "title": "Imitation Learning and Learning from Demonstrations",
+    "sidebar_label": "Chapter 3: Imitation Learning",
+    "week": "Weeks 5–7",
+    "tags": [
+      "AI",
+      "robotics",
+      "imitation learning",
+      "demonstrations",
+      "behavioral cloning"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 2: Kinematics",
+    "permalink": "/docs/module-3-ai-integration/chapter-2-kinematics"
+  },
+  "next": {
+    "title": "Chapter 4: LLMs for Robotics",
+    "permalink": "/docs/module-3-ai-integration/chapter-4-llm-robot-brains"
+  }
+}

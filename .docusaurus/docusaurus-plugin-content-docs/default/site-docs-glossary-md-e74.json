@@ -1,0 +1,27 @@
+{
+  "id": "glossary",
+  "title": "Glossary of Terms",
+  "description": "This glossary provides definitions for key terms used throughout the \"Physical AI and Humanoid Robots\" course. It aims to cover approximately 50 terms, sorted alphabetically (A-Z), with concise 1-2 sentence definitions relevant to embodied AI, kinematics, SLAM, ROS 2, and other core robotics and AI concepts.",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary of Terms",
+    "sidebar_label": "Glossary"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Assessments & Exams",
+    "permalink": "/docs/assessments"
+  },
+  "next": {
+    "title": "Chapter 1: Concepts",
+    "permalink": "/docs/module-1-foundations/chapter-1"
+  }
+}

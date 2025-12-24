@@ -1,0 +1,61 @@
+{
+  "id": "module-2-robotics-basics/chapter-3-dynamics-torque",
+  "title": "Dynamics, Torque, and Motor Sizing",
+  "description": "Introduction",
+  "source": "@site/docs/module-2-robotics-basics/chapter-3.md",
+  "sourceDirName": "module-2-robotics-basics",
+  "slug": "/module-2-robotics-basics/chapter-3-dynamics-torque",
+  "permalink": "/docs/module-2-robotics-basics/chapter-3-dynamics-torque",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "dynamics",
+      "permalink": "/docs/tags/dynamics"
+    },
+    {
+      "inline": true,
+      "label": "torque",
+      "permalink": "/docs/tags/torque"
+    },
+    {
+      "inline": true,
+      "label": "motors",
+      "permalink": "/docs/tags/motors"
+    },
+    {
+      "inline": true,
+      "label": "actuators",
+      "permalink": "/docs/tags/actuators"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-3-dynamics-torque",
+    "title": "Dynamics, Torque, and Motor Sizing",
+    "sidebar_label": "Chapter 3: Dynamics & Sizing",
+    "week": "Weeks 3–5",
+    "tags": [
+      "robotics",
+      "dynamics",
+      "torque",
+      "motors",
+      "actuators"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 2: Kinematics",
+    "permalink": "/docs/module-2-robotics-basics/chapter-2-kinematics"
+  },
+  "next": {
+    "title": "Chapter 4: Frames & DH",
+    "permalink": "/docs/module-2-robotics-basics/chapter-4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "module-4-humanoid-design/module-4-humanoid-design",
+  "title": "Module 4: Humanoid Design",
+  "description": "Module Overview: This module delves into the critical aspects of designing humanoid robots, with a strong emphasis on hardware-focused, real-world buildable designs. It covers the essential domains of human biomechanics, locomotion, manipulation, materials, actuators, and power systems. The goal is to equip learners with the practical knowledge needed to conceptualize and plan functional humanoid robot systems.",
+  "source": "@site/docs/module-4-humanoid-design/module-4-humanoid-design.md",
+  "sourceDirName": "module-4-humanoid-design",
+  "slug": "/module-4-humanoid-design/",
+  "permalink": "/docs/module-4-humanoid-design/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

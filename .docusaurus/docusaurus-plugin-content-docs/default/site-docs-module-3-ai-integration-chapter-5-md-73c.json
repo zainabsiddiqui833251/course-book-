@@ -1,0 +1,73 @@
+{
+  "id": "module-3-ai-integration/chapter-5-training-envs",
+  "title": "Training in Isaac Gym and MuJoCo",
+  "description": "Introduction",
+  "source": "@site/docs/module-3-ai-integration/chapter-5.md",
+  "sourceDirName": "module-3-ai-integration",
+  "slug": "/module-3-ai-integration/chapter-5-training-envs",
+  "permalink": "/docs/module-3-ai-integration/chapter-5-training-envs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "AI",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "inline": true,
+      "label": "robotics",
+      "permalink": "/docs/tags/robotics"
+    },
+    {
+      "inline": true,
+      "label": "training",
+      "permalink": "/docs/tags/training"
+    },
+    {
+      "inline": true,
+      "label": "simulation",
+      "permalink": "/docs/tags/simulation"
+    },
+    {
+      "inline": true,
+      "label": "Isaac Gym",
+      "permalink": "/docs/tags/isaac-gym"
+    },
+    {
+      "inline": true,
+      "label": "MuJoCo",
+      "permalink": "/docs/tags/mu-jo-co"
+    },
+    {
+      "inline": true,
+      "label": "RL",
+      "permalink": "/docs/tags/rl"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "chapter-5-training-envs",
+    "title": "Training in Isaac Gym and MuJoCo",
+    "sidebar_label": "Chapter 5: Training Environments",
+    "week": "Weeks 5–7",
+    "tags": [
+      "AI",
+      "robotics",
+      "training",
+      "simulation",
+      "Isaac Gym",
+      "MuJoCo",
+      "RL"
+    ]
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 4: LLMs for Robotics",
+    "permalink": "/docs/module-3-ai-integration/chapter-4-llm-robot-brains"
+  },
+  "next": {
+    "title": "Chapter 1: Human Biomechanics and Anthropometric Data",
+    "permalink": "/docs/module-4-humanoid-design/chapter-1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "module-4-humanoid-design/placeholder",
+  "title": "Placeholder Module Content",
+  "description": "This is a placeholder page for Module 4: Humanoid Design. Actual content will be added later.",
+  "source": "@site/docs/module-4-humanoid-design/placeholder.md",
+  "sourceDirName": "module-4-humanoid-design",
+  "slug": "/module-4-humanoid-design/placeholder",
+  "permalink": "/docs/module-4-humanoid-design/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "placeholder",
+    "title": "Placeholder Module Content",
+    "sidebar_label": "Placeholder"
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Chapter 5: Training Environments",
+    "permalink": "/docs/module-3-ai-integration/chapter-5-training-envs"
+  },
+  "next": {
+    "title": "Placeholder",
+    "permalink": "/docs/module-5-control-navigation/placeholder"
+  }
+}
